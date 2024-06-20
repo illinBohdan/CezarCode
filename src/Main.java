@@ -7,10 +7,7 @@ public class Main {
 
         GraphicsWindow graphicsWindow = new GraphicsWindow();
 
-        /*Scanner scanner = new Scanner(System.in);
-        System.out.println(MODE);
-        int mode = scanner.nextInt();
-        Selector.start(mode);*/
+        
 
 
     }
